@@ -1,1 +1,2 @@
-# Store-App-X
+# Store App X
+Store App X is a tricked out version of Store App, it has all the payment and command running features of Store App plus a bunch of other features we think you'll love, or maybe you won't, that's ok too! Store App X is designed to be the most seemless website to Minecraft server integration available. Store App X is designed with the server's finances in mind, we have very clear, very simple, very affordable pricing that is a one time purchase and there are absolutely NO recurring fees, that's the point! We hope you enjoy Store App X and we hope it can help lower the costs of owning and operating your Minecraft server while giving you and edge on the competition with an array of aweseme features!
